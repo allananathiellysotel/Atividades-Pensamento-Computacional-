@@ -1,5 +1,6 @@
 h1{
-  font-size: 40px; color: blue; font-family: cursive; text-align: center;
+  font-size: 40px;
+  color: blue; font-family: serif; text-align: center;
   display:
 }
 img{
@@ -13,6 +14,7 @@ header{
   background-color: pink
 
 }
+body
 
 .voleibol{
 text-align: center;
